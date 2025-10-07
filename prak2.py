@@ -1,6 +1,6 @@
 a = float (input ("Masukan angka pertama: "))
-a = float (input ("Masukan angka kedua: "))
-a = float (input ("Masukan angka ketiga: "))
+b = float (input ("Masukan angka kedua: "))
+c = float (input ("Masukan angka ketiga: "))
 
 if a > b and a > c :
     largest = a
