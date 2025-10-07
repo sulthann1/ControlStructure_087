@@ -10,3 +10,4 @@ elif percentage >= 60:
     print ("Average perfomance")
 else :
     print ("Needs improvment")
+
